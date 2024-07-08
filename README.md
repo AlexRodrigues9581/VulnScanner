@@ -28,7 +28,7 @@ sudo pip3 install python-nmap
 ```
 After this you can clone the project and run it:
 ```
-sudo git clone
+sudo git clone https://github.com/AlexRodrigues9581/VulnScanner.git
 cd VulnScanner
 sudo python3 vulnscanner.py
 ```
