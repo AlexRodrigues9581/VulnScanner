@@ -1,4 +1,4 @@
-# VulnScanner
+# VulnScanner 📡
 A Network &amp; Vulnerability Scanner coded in Python
 
 ![print](https://github.com/AlexRodrigues9581/VulnScanner/assets/171432647/bbf6331a-23d7-464c-bdde-b9e4d66625ad)
